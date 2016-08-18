@@ -1,0 +1,17 @@
+{
+    "name": "monofett-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Vernon Adams"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/monofett-bower.git"
+    },
+    "description": "Monofett font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
